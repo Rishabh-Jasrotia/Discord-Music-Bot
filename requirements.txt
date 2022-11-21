@@ -1,0 +1,6 @@
+# This is for Heroku hosting only (remove this line if hosting on heroku)
+discord.py
+PyNaCl
+youtube_dl
+dnspython==1.16.0
+google-api-python-client

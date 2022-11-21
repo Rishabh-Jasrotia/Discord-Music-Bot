@@ -1,0 +1,6 @@
+# Instructions for tmux terminal (google cloud)
+tmux -> to start a new session
+tmux ls -> to list every active session
+tmux a -t [id] -> to access an already active session (you can get id from previous command)
+
+**to end a running tmux session use -> exit (when inside the session)
